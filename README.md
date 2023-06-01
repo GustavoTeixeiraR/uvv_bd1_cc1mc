@@ -8,7 +8,7 @@
 
 # PSET1
 
-## Pasta com os documentos do PSET1: Diagrama do schema lojas UVV pelo SQLarchitect, Diagrama do schema lojas UVV em PDF e Script SQL Global do Banco de Dados UVV.
+## Pasta com os documentos do PSET1: Diagrama do schema lojas UVV pelo PowerArchitect, Diagrama do schema lojas UVV em PDF e Script SQL Global do Banco de Dados UVV.
 
 * cc1mc_202306300_postgresql.architect                            
 
